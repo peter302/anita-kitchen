@@ -1,0 +1,15 @@
+.jumbotron{
+  background-image: url(anitaimages/landing.jpg);
+}
+.sawa{
+  background-image: url(anitaimages/breakfast.jpg);
+  padding: 60px;
+}
+.party{
+  background-color: #F15A29;
+  padding: 20px;
+
+}
+.happy{
+  padding:20px;
+}
