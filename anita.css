@@ -34,3 +34,24 @@ margin:0;
 #head{
   font-size:28;
 }
+.center{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  margin: auto;
+}
+.drink{
+  padding: 80;
+  margin: auto;
+}
+.fast{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  margin: auto;
+  background-color: white;
+}
+.awsome{
+  background-image: url("anitaimages/foodsBg.jpg");
+  padding: 20;
+}
