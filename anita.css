@@ -4,6 +4,7 @@
 .sawa{
   background-image: url(anitaimages/breakfast.jpg);
   padding: 60px;
+  margin: 0;
 }
 .party{
   background-color: #F15A29;
@@ -12,4 +13,24 @@
 }
 .happy{
   padding:20px;
+  background-color: grey;
+}
+.good{
+  background-image: url(anitaimages/lunch.jpg);
+padding: 60px;
+margin:0;
+}
+.dinner{
+  background-image: url(anitaimages/dinner.jpg);
+  padding: 60px;
+  margin: 0;
+}
+.well{
+  padding: 80;
+}
+.white{
+  color: white;
+}
+#head{
+  font-size:28;
 }
