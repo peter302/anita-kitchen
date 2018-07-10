@@ -1,7 +1,7 @@
 {my{Anit-kitchen}
 {Th{the site is about Anita-kitchen , a restaurant that deals with fast food}, {28-6-2018}
 By {peter kuria}
-{The site is about Anita-kitchen , a restaurant that deals with fast food.This is the link to my website https://peter302.github.io/moringa-web-assignment/ }
+{The site is about Anita-kitchen , a restaurant that deals with fast food.This is the link to my website https://github.com/peter302/anita-kitchen.git }
 
 Setup/Installation Requirements
 This is a great place
