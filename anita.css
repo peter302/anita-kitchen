@@ -1,5 +1,6 @@
 .jumbotron{
   background-image: url(anitaimages/landing.jpg);
+  background-attachment: fixed;
 }
 .sawa{
   background-image: url(anitaimages/breakfast.jpg);
@@ -54,4 +55,26 @@ margin:0;
 .awsome{
   background-image: url("anitaimages/foodsBg.jpg");
   padding: 20;
+justify-content:Right;
+}
+.later{
+	background-color: #F15A29;
+	height: 40vh;
+	justify-content:center;
+	text-align: center;
+	padding: 50px ;
+
+}
+.btn{
+  border-color:orange;
+}
+.pape{
+  background-image: url("anitaimages/subscribe.png");
+  justify-content: center;
+}
+.okey{
+  justify-content: center;
+}
+#pip{
+  border-color: grey;
 }
