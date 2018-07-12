@@ -2,7 +2,7 @@
   background-image: url(anitaimages/landing.jpg);
   background-attachment: fixed;
 }
-.sawa{
+.kuku{
   background-image: url(anitaimages/breakfast.jpg);
   padding: 60px;
   margin: 0;
@@ -20,6 +20,7 @@
   background-image: url(anitaimages/lunch.jpg);
 padding: 60px;
 margin:0;
+margin-left: -100;
 }
 .dinner{
   background-image: url(anitaimages/dinner.jpg);
@@ -74,17 +75,22 @@ justify-content:Right;
 }
 .sawa{
   background-image: url("anitaimages/subscribe.jpg");
-  margin-left: -80px;
+  margin-left:-80px;
   margin-right: -80px;
-  height: 40vh;
-  justify-content: center;
+  height: 400px;
+  align-content: center;
 }
 #put{
   justify-content: center;
 }
 .group{
-  margin-bottom: 5em;
+  margin-top:-100px;
 }
 .lilo{
   color: white;
+}
+.jumbotron{
+  background-color: #F15A29;
+  margin:-100px;
+  align-content: center;
 }
