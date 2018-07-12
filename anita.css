@@ -72,9 +72,19 @@ justify-content:Right;
   background-image: url("anitaimages/subscribe.png");
   justify-content: center;
 }
-.okey{
+.sawa{
+  background-image: url("anitaimages/subscribe.jpg");
+  margin-left: -80px;
+  margin-right: -80px;
+  height: 40vh;
+
+}
+#put{
   justify-content: center;
 }
-#pip{
-  border-color: grey;
+.group{
+  margin-bottom: 5em;
+}
+.lilo{
+  color: white;
 }
