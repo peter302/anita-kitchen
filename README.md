@@ -1,12 +1,11 @@
-{my{Anit-kitchen}
-{Th{the site is about Anita-kitchen , a restaurant that deals with fast food}, {28-6-2018}
+{Anit-kitchen}
+{The site is about Anita-kitchen , a restaurant that deals with fast food}, {28-6-2018}
 By {peter kuria}
 {The site is about Anita-kitchen , a restaurant that deals with fast food.This is the link to my website https://github.com/peter302/anita-kitchen.git }
 
 Setup/Installation Requirements
-This is a great place
-to list setup instructions
-in a simple
+-you need Git
+-a text editor
 {for the web to load makes sure you are connected to the Internet. You don't need to to install any dependency to to run the application}
 
 Known Bugs
