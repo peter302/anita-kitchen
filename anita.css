@@ -69,16 +69,11 @@ justify-content:Right;
 .btn{
   background-color:#F15A29;
 }
-.pape{
-  background-image: url("anitaimages/subscribe.png");
-  justify-content: center;
-}
 .sawa{
   background-image: url("anitaimages/subscribe.jpg");
-  margin-left:-80px;
-  margin-right: -80px;
-  height: 400px;
-  align-content: center;
+  height:400px;
+  margin-left: -100px;
+  margin-right: -400px;
 }
 #put{
   justify-content: center;
@@ -88,9 +83,25 @@ justify-content:Right;
 }
 .lilo{
   color: white;
+  margin: 100px;
 }
 .jumbotron{
   background-color: #F15A29;
   margin:-100px;
   align-content: center;
+}
+#put{
+  margin-left: 500px;
+}
+#img{
+  margin-left:400px;
+}
+#that{
+  margin-left:400px;
+}
+#who{
+  margin-left:400px;
+}
+#face{
+  margin-left:450px;
 }
