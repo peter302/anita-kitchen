@@ -170,3 +170,15 @@ margin-top: -200px;
 .button{
   color:#F15A29
 }
+#chick{
+  margin-left: 110px;
+}
+#beef{
+  margin-right:110px;
+}
+#po{
+  background-image: url("anitaimages/subscribe.jpg");
+}
+#btn1,#btn2,#btn3,#btn4{
+  color:#F15A29;
+}
