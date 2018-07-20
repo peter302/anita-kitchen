@@ -1,7 +1,7 @@
 {Anit-kitchen}
 {The site is about Anita-kitchen , a restaurant that deals with fast food}, {28-6-2018}
 By {peter kuria}
-{The site is about Anita-kitchen , a restaurant that deals with fast food.This is the link to my website https://github.com/peter302/anita-kitchen.git }
+{The site is about Anita-kitchen , a restaurant that deals with fast food.The sites shows the type of food the deal with and their best customers.This is the link to my website https://github.com/peter302/anita-kitchen.git }
 
 Setup/Installation Requirements
 -you need Git
@@ -9,7 +9,7 @@ Setup/Installation Requirements
 {for the web to load makes sure you are connected to the Internet. You don't need to to install any dependency to to run the application}
 
 Known Bugs
-{The email section failed to insert the background image }
+{No currently known bugs }
 
 Technologies Used
 {the Application is developed using HTML ,bootstrap and CSS in atom text editor.}
