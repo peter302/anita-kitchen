@@ -1,41 +1,19 @@
-{Anit-kitchen}
-{The site is about Anita-kitchen , a restaurant that deals with fast food}, {28-6-2018}
-By {peter kuria}
-{The site is about Anita-kitchen , a restaurant that deals with fast food.The sites shows the type of food the deal with and their best customers.This is the link to my website https://github.com/peter302/anita-kitchen.git }
+Anita's Kitchen
+By Peter kuria.
 
-Setup/Installation Requirements
--you need Git
--a text editor
-{for the web to load makes sure you are connected to the Internet. You don't need to to install any dependency to to run the application}
+Description
+This is an independent project given to me by Moringa. The aim was to recreate a professionally done website called "Anita's Kitchen" in which they(Moringa) provided the assets and the image of the end product.
 
-Known Bugs
-{No currently known bugs }
+Technologies used
+HTML CSS Bootstrap JQUERY / JAVASCRIPT Google analytics integration Live Demo https://peter302.github.io/anita-kitchen/
 
-Technologies Used
-{the Application is developed using HTML ,bootstrap and CSS in atom text editor.}
+User Requirements/Setup
+Git Web browser Bootstrap 4 Jquery 3 Contact details If you want to contact me to ask me about the concerned project, feel free to contact me using the following links. #Contact me [Gmail] (petermbaik@gmail.com)
 
-Support and contact details
-{if you encounter an issue in my code please do not hesitate to contact me @petermbaik@gmail.com, if necessary please do make corrections}
+License Copyright (c) <2018> Peter
 
-License
-MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Copyright (c) [year] [Peter Kuria]
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
